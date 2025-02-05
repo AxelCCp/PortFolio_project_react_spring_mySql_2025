@@ -1,0 +1,11 @@
+
+gestionar password del usuario
+
+validaciones de back
+validaciones de front
+mensajes sweet alert
+
+construir login
+
+icons:
+https://icon-icons.com/es/
